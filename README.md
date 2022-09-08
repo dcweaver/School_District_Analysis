@@ -10,6 +10,6 @@ Shown below are the disctrict summaries both before and after the ninth grade sc
 
 ![with ninth grade](/Resources/dist_summary_unfiltered.png)
 
-![filtered ninth out](/Resources/dist_summary_filtered.png)
+![filtered ninth out](/Resources/dis_summary_filtered.png)
 
 
