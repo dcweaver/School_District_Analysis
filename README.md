@@ -5,6 +5,11 @@ The purpose of this analysis was to use apply the skills learned in working with
 
 ## Results
 * **How is the district summary affected?**
+
 Shown below are the disctrict summaries both before and after the ninth grade scores from Thomas High School had been filtered.
 
 ![with ninth grade](/Resources/dist_summary_unfiltered.png)
+
+![filtered ninth out](/Resources/dist_summary_filtered.png)
+
+
