@@ -7,4 +7,4 @@ The purpose of this analysis was to use apply the skills learned in working with
 * **How is the district summary affected?**
 Shown below are the disctrict summaries both before and after the ninth grade scores from Thomas High School had been filtered.
 
-![with ninth grade]("C:\Users\terri\Documents\GitHub\School_District_Analysis\Resources\dist_summary_unfiltered.png")
+![with ninth grade]("\Resources\dist_summary_unfiltered.png")
